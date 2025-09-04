@@ -43,6 +43,23 @@ SOMA.ALG → Realiza a soma entre dois números.
 
 SUBTRACAO.ALG → Realiza a subtração entre dois números.
 
+POSITIVO_NEGATIVO.ALG → Calcular se o valor é positivo ou negativo
+
+MACA.ALG → Valor total da compra de maçãs com valor variavel por quantidade
+
+MEDIA.ALG → Calcular a média de notas do aluno e se foi aprovado ou reprovado
+
+VOTAR.ALG → Calcular se a pessoa pode votar
+
+VOTARMELHORADO.ALG → Calcular se a pessoa pode votar (Dia/Mês/Ano)
+
+SEMANA.ALG → Exibir o dia da semana correspondente ao número
+
+QUALMAIOR.ALG → Compara os dois valores trazendo o maior
+
+CRESCENTE.ALG → Ordenar em ordem crescente os valores
+
+XADREZ.ALG → Calcular as horas de duração de uma partida de xadrez
 
 🎯 Objetivo
 
