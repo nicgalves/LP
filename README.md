@@ -61,6 +61,46 @@ CRESCENTE.ALG → Ordenar em ordem crescente os valores
 
 XADREZ.ALG → Calcular as horas de duração de uma partida de xadrez
 
-🎯 Objetivo
+SALDO.ALG → Calcular o saldo final de uma conta a partir dos valores informados
 
-O repositório serve como apoio para estudantes de Análise e Desenvolvimento de Sistemas, Engenharia da Computação, Técnico em Informática ou qualquer pessoa que esteja iniciando em lógica de programação.
+SALARIOBONUS.ALG → Calcular o salário final de um funcionário incluindo bônus
+
+PESOIDEAL.ALG → Calcular o peso ideal de uma pessoa a partir da altura e gênero
+
+SALARIOHORA.ALG → Calcular o salário a partir das horas trabalhadas e do valor por hora
+
+MAIORQUE10.ALG → Verificar se um número informado é maior que 10
+
+CRESCENTECOMTRES.ALG → Ler três valores distintos e exibi-los em ordem crescente
+
+SOMADOISMAIORES.ALG → Calcular a soma dos dois maiores valores entre três números
+
+QUALMAIOREMTRES.ALG → Determinar qual é o maior entre três valores
+
+POSITIVONEGATIVOZERO.ALG → Verificar se um número informado é positivo, negativo ou zero
+
+ESTOQUE.ALG → Verificar se o estoque de um produto está adequado, baixo ou excessivo
+
+CLASSIFICACAOALUNO.ALG → Determinar a média e a classificação de um aluno com base em quatro notas.
+
+SENHA.ALG → Criar um sistema de acesso que verifica o código do usuário e a senha.
+
+VENDAS.ALG → Calcular o valor a ser pago em uma compra com base na quantidade e no valor de um produto, aplicando descontos variados.
+
+TIMES.ALG → Comparar o número de gols de dois times para determinar o resultado de uma partida (vitória ou empate).
+
+MORANGOS.ALG → Calcular o valor total de uma compra de morangos e maçãs, aplicando descontos com base na quantidade ou no valor total.
+
+TIANGULO.ALG → Verificar se três valores inseridos podem formar um triângulo.
+
+TESTEDEMESA.ALG → Executar um teste de mesa para encontrar o valor de 'z' e a resposta correspondente com base nos valores de 'x' e 'y'.
+
+POSTODEGASOLINA.ALG → Calcular o valor total a ser pago por combustível, aplicando descontos com base no tipo de combustível (álcool ou gasolina) e na quantidade de litros.
+
+IDADES.ALG → Encontrar a idade do homem mais velho e da mulher mais nova para calcular a soma das idades, e encontrar a idade do homem mais novo e da mulher mais velha para calcular o produto das idades.
+
+COMPARADOR.ALG → Comparar dois valores para determinar qual é o maior ou se são iguais.
+
+APOSENTADORIA.ALG → Determinar se um funcionário pode se aposentar com base em sua idade e tempo de serviço na empresa.
+
+CONFERIRTRIANGULO.ALG → Verificar se três valores podem formar um triângulo. Se sim, o programa classifica o triângulo como Equilátero, Isósceles ou Escaleno.
