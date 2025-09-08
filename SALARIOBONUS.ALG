@@ -1,26 +1,25 @@
 Algoritmo "salariobonus"
-// Disciplina   : Lógica de Programação
+// Disciplina   : LÃ³gica de ProgramaÃ§Ã£o
 // Professor   : Jailson Santos 
-// Descrição   : Salario com bonus baseado em valor de vendas
+// DescriÃ§Ã£o   : Salario com bonus baseado em valor de vendas
 // Autor(a)    : Nicole Alves
 // Data atual  : 04/09/2025
 Var
-// Seção de Declarações das variáveis 
-   fixo, vendas, final : real
-
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
+   fixo, vendas, final, passou : real
+ 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-  Escreva("Digite o valor do salário: R$")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+  Escreva("Digite o valor do salÃ¡rio: R$")
   Leia(fixo)
-  
   Escreva("Digite o valor somado de vendas: R$")
   Leia(vendas)
-
+ 
   se vendas <1500 entao
      final <- fixo + (vendas * 0.03)
   senao
-       final <- fixo + (vendas * 0.05)
+       passou <- vendas - 1500
+       final <- fixo + (vendas * 0.03) + (passou * 0.05)
   fimse
-  
-  Escreval("Valor do salário com a comissão é: R$", final:0:2)
+  Escreval("Valor do salÃ¡rio com a comissÃ£o Ã©: R$", final:0:2)
 Fimalgoritmo
