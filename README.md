@@ -104,3 +104,5 @@ COMPARADOR.ALG → Comparar dois valores para determinar qual é o maior ou se s
 APOSENTADORIA.ALG → Determinar se um funcionário pode se aposentar com base em sua idade e tempo de serviço na empresa.
 
 CONFERIRTRIANGULO.ALG → Verificar se três valores podem formar um triângulo. Se sim, o programa classifica o triângulo como Equilátero, Isósceles ou Escaleno.
+
+CAIXAELETRONICO.ALG → Simulação de caixa eletrônico e suas funções.
